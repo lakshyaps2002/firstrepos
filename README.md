@@ -1,2 +1,3 @@
 # firstrepos
-First Repository
+This is First Git Repository
+Author-Lakshya 
